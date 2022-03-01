@@ -1,0 +1,34 @@
+body{
+    padding: 100px;
+    background-image: linear-gradient(-20deg, #fdd802, #fd0808);
+    text-align: center;
+    font-family: verdana;
+}
+ul{
+    margin-left: -5px;
+    text-align: right;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.main{
+    background-color: rgba(255, 255, 255, 0.4);
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.img img{
+    border-radius: 50%;
+    width: 225px;
+}
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 20px;
+    color: #4e4e4e;
+}
+p{
+    text-align: justify;
+}
